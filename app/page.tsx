@@ -2,16 +2,16 @@ import ProjectList from "@/components/projectlist";
 
 const projects = [
   {
-    title: "E-Commerce Dashboard",
-    description: "A full-stack Next.js app for managing products, inventory, and order analytics.",
-    technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    link: "https://github.com/your-username/project1",
+    title: "Date Night Planner",
+    description: "A WDD 330 final project that helps users plan a date night by browsing local events or trending movies and shows to stream.",
+    technologies: ["JavaScript", "Vite", "ESLint", "Prettier"],
+    link: "https://github.com/tsbowers/date_night",
   },
   {
-    title: "Weather Application",
-    description: "A real-time React app that fetches and displays live weather forecasts.",
-    technologies: ["React", "JavaScript", "CSS", "OpenWeather API"],
-    link: "https://github.com/your-username/project2",
+    title: "NWA Hiking Guide",
+    description: "A WDD 231 final project showcasing hiking trails, current weather conditions, and featured hikes across Northwest Arkansas.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://github.com/tsbowers/wdd231/tree/main/hiking",
   },
 ];
 
